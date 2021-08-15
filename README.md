@@ -1,2 +1,2 @@
 # Touch Slider
-Coming soon...
+Full screen touch slider with HTML, CSS & JavaScript
